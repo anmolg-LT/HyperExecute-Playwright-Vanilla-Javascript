@@ -1,4 +1,4 @@
-name: Hyperexecute-Playwright
+name: Github Actions
 on:
   workflow_dispatch:
     inputs:
